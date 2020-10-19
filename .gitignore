@@ -1,0 +1,12 @@
+not-gun-dataset/
+gun-dataset-old/
+gun-dataset/
+test-gun/
+test-data/
+gta/
+git_images/
+bkp/
+binary-dataset/
+temp/
+.vscode/
+*.h5
